@@ -19,3 +19,7 @@ const buttonRef = React.useRef`<HTMLButtonElement>`(null);
 const brRef = React.useRef`<HTMLBRElement>`(null);
 
 const linkRef = React.useRef`<HTMLLinkElement>`(null);
+
+---
+
+[图片加载失败后CSS样式处理最佳实践](https://www.zhangxinxu.com/wordpress/2020/10/css-style-image-load-fail/)
